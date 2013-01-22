@@ -3,10 +3,6 @@
   "version": "0.0.0-5",
   "description": "Takes an RGBA Stream and finds features",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "server.js"
-  },
   "repository": "",
   "author": "Bjartwolf",
   "license": "BSD",
@@ -14,7 +10,6 @@
     "underscore": "~1.4.3",
     "jsfeat": "0.0.4"
   },
-  "subdomain": "bjartwolf.CornerDetectionExample",
   "engines": {
     "node": "0.8.x"
   }
